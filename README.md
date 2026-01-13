@@ -1,6 +1,6 @@
-# CSV to Draw.io Sunburst Converter
+# CSV to Draw.io Radial Tree Converter
 
-A Node.js CLI tool that converts hierarchical CSV data into Draw.io XML files, which can be visualized as sunburst diagrams.
+A Node.js CLI tool that converts hierarchical CSV data into Draw.io XML files, which can be visualized as Radial Tree diagrams.
 
 ## Features
 
